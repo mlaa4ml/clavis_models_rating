@@ -15,19 +15,19 @@ _Обновлено: 2026-07-28 (UTC) · моделей в рейтинге: 128
 
 | # | Модель | Провайдер | Запросов (30 дн.) | Δ к пред. дню |
 |---|--------|-----------|-------------------:|--------------:|
-| 1 | gpt-5.6-sol | OpenAI | 4 198 | — |
-| 2 | gemini-3.1-pro-preview | Google | 2 993 | — |
-| 3 | claude-opus-4-8 | Anthropic | 1 905 | — |
-| 4 | gpt-5.5 | OpenAI | 1 801 | — |
+| 1 | gpt-5.6-sol | OpenAI | 4 219 | — |
+| 2 | gemini-3.1-pro-preview | Google | 3 125 | — |
+| 3 | gpt-5.5 | OpenAI | 2 068 | — |
+| 4 | claude-opus-4-8 | Anthropic | 1 671 | — |
 | 5 | deepseek-v4-flash | DeepSeek | 1 464 | — |
-| 6 | deepseek-v4-pro | DeepSeek | 1 249 | — |
+| 6 | deepseek-v4-pro | DeepSeek | 1 456 | — |
 | 7 | gpt-5.4-mini | OpenAI | 1 160 | — |
-| 8 | gpt-5-mini | OpenAI | 1 109 | — |
-| 9 | gpt-5.6-luna | OpenAI | 1 034 | — |
-| 10 | gpt-5.4 | OpenAI | 990 | — |
-| 11 | gemini-3-flash-preview | Google | 803 | — |
-| 12 | claude-sonnet-4-6 | Anthropic | 714 | — |
-| 13 | claude-opus-4-7 | Anthropic | 696 | — |
+| 8 | gpt-5-mini | OpenAI | 1 130 | — |
+| 9 | gpt-5.6-luna | OpenAI | 1 044 | — |
+| 10 | gpt-5.4 | OpenAI | 950 | — |
+| 11 | gemini-3-flash-preview | Google | 754 | — |
+| 12 | claude-sonnet-4-6 | Anthropic | 709 | — |
+| 13 | claude-opus-4-7 | Anthropic | 685 | — |
 | 14 | gemini-3.1-flash-lite | Google | 641 | — |
 | 15 | gemini-3.5-flash | Google | 579 | — |
 | 16 | claude-opus-5 | Anthropic | 447 | — |
