@@ -11,8 +11,35 @@
 ## Текущий рейтинг
 
 <!-- RATING_TABLE_START -->
-_Данные ещё не собраны. Дождись первого запуска workflow'а или запусти его
-вручную (Actions → Daily Clavis Rating → Run workflow)._
+_Обновлено: 2026-07-28 (UTC) · моделей в рейтинге: 128_
+
+| # | Модель | Провайдер | Запросов (30 дн.) | Δ к пред. дню |
+|---|--------|-----------|-------------------:|--------------:|
+| 1 | gpt-5.6-sol | OpenAI | 4 198 | — |
+| 2 | gemini-3.1-pro-preview | Google | 2 993 | — |
+| 3 | claude-opus-4-8 | Anthropic | 1 905 | — |
+| 4 | gpt-5.5 | OpenAI | 1 801 | — |
+| 5 | deepseek-v4-flash | DeepSeek | 1 464 | — |
+| 6 | deepseek-v4-pro | DeepSeek | 1 249 | — |
+| 7 | gpt-5.4-mini | OpenAI | 1 160 | — |
+| 8 | gpt-5-mini | OpenAI | 1 109 | — |
+| 9 | gpt-5.6-luna | OpenAI | 1 034 | — |
+| 10 | gpt-5.4 | OpenAI | 990 | — |
+| 11 | gemini-3-flash-preview | Google | 803 | — |
+| 12 | claude-sonnet-4-6 | Anthropic | 714 | — |
+| 13 | claude-opus-4-7 | Anthropic | 696 | — |
+| 14 | gemini-3.1-flash-lite | Google | 641 | — |
+| 15 | gemini-3.5-flash | Google | 579 | — |
+| 16 | claude-opus-5 | Anthropic | 447 | — |
+| 17 | claude-fable-5 | Anthropic | 321 | — |
+| 18 | gemini-2.5-pro | Google | 282 | — |
+| 19 | gpt-4o-mini | OpenAI | 267 | — |
+| 20 | gpt-5-nano | OpenAI | 266 | — |
+| 21 | claude-sonnet-5 | Anthropic | 225 | — |
+| 22 | text-embedding-3-small | OpenAI | 203 | — |
+| 23 | Aion 3.0 | Aion Labs | 161 | — |
+| 24 | gpt-5.6-terra | OpenAI | 152 | — |
+| 25 | gemini-3.6-flash | Google | 109 | — |
 <!-- RATING_TABLE_END -->
 
 ## Как это работает
