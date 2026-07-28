@@ -44,7 +44,7 @@ ERRORS_CSV = os.path.join(SNAPSHOTS_DIR, f"errors_{TODAY}.csv")
 REQUEST_TIMEOUT = 15
 PAUSE_BETWEEN_CALLS = 0.35
 
-USER_AGENT = "clavis-rating-github-actions/1.0 (+https://github.com/<твой-юзер>/<твой-репо>)"
+USER_AGENT = "clavis-rating-github-actions/1.0" #  (+https://github.com/nltagent/clavis_models_rating)
 
 
 def build_session() -> requests.Session:
