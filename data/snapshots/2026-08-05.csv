@@ -1,0 +1,226 @@
+base_id,display_name,vendor,total_requests,variant_count
+gemini-3.1-pro-preview,gemini-3.1-pro-preview,Google,4720,5
+gemini-3.1-pro-preview,gemini-3.1-pro-preview,Google,4720,5
+gemini-3.1-pro-preview,gemini-3.1-pro-preview,Google,4720,5
+gpt-5.6-sol,gpt-5.6-sol,OpenAI,4392,3
+deepseek-v4-pro,deepseek-v4-pro,DeepSeek,2151,3
+deepseek-v4-pro,deepseek-v4-pro,DeepSeek,2151,3
+gpt-5.6-luna,gpt-5.6-luna,OpenAI,2120,3
+claude-sonnet-4-6,claude-sonnet-4-6,Anthropic,1688,10
+claude-sonnet-4-6,claude-sonnet-4-6,Anthropic,1688,10
+claude-sonnet-4-6,claude-sonnet-4-6,Anthropic,1688,10
+deepseek-v4-flash,deepseek-v4-flash,DeepSeek,1504,4
+deepseek-v4-flash,deepseek-v4-flash,DeepSeek,1504,4
+gemini-3-flash-preview,gemini-3-flash-preview,Google,1500,5
+gemini-3-flash-preview,gemini-3-flash-preview,Google,1500,5
+gemini-3-flash-preview,gemini-3-flash-preview,Google,1500,5
+gpt-5.5,gpt-5.5,OpenAI,1465,4
+claude-opus-4-8,claude-opus-4-8,Anthropic,1141,10
+claude-opus-4-8,claude-opus-4-8,Anthropic,1141,10
+claude-opus-4-8,claude-opus-4-8,Anthropic,1141,10
+claude-opus-4-7,claude-opus-4-7,Anthropic,987,10
+claude-opus-4-7,claude-opus-4-7,Anthropic,987,10
+claude-opus-4-7,claude-opus-4-7,Anthropic,987,10
+gpt-5-mini,gpt-5-mini,OpenAI,974,2
+gpt-5.4-mini,gpt-5.4-mini,OpenAI,959,4
+gpt-5.6-terra,gpt-5.6-terra,OpenAI,814,3
+gemini-3.1-flash-lite,gemini-3.1-flash-lite,Google,752,4
+gemini-3.1-flash-lite,gemini-3.1-flash-lite,Google,752,4
+claude-opus-5,claude-opus-5,Anthropic,736,10
+claude-opus-5,claude-opus-5,Anthropic,736,10
+claude-opus-5,claude-opus-5,Anthropic,736,10
+gpt-5-nano,gpt-5-nano,OpenAI,681,1
+gemini-3.6-flash,gemini-3.6-flash,Google,613,5
+gemini-3.6-flash,gemini-3.6-flash,Google,613,5
+gemini-3.6-flash,gemini-3.6-flash,Google,613,5
+gpt-5.4,gpt-5.4,OpenAI,526,4
+claude-sonnet-5,claude-sonnet-5,Anthropic,509,10
+claude-sonnet-5,claude-sonnet-5,Anthropic,509,10
+claude-sonnet-5,claude-sonnet-5,Anthropic,509,10
+gemini-3.5-flash,gemini-3.5-flash,Google,296,5
+gemini-3.5-flash,gemini-3.5-flash,Google,296,5
+gemini-3.5-flash,gemini-3.5-flash,Google,296,5
+gemini-2.5-pro,gemini-2.5-pro,Google,239,5
+gemini-2.5-pro,gemini-2.5-pro,Google,239,5
+gemini-2.5-pro,gemini-2.5-pro,Google,239,5
+text-embedding-3-small,text-embedding-3-small,OpenAI,203,2
+claude-fable-5,claude-fable-5,Anthropic,178,8
+claude-fable-5,claude-fable-5,Anthropic,178,8
+aion-3.0,Aion 3.0,Aion Labs,171,1
+gemini-embedding-001,gemini-embedding-001,Google,113,1
+gpt-5,gpt-5,OpenAI,93,1
+gpt-4.1-nano,gpt-4.1-nano,OpenAI,70,1
+claude-haiku-4-5-20251001,claude-haiku-4-5-20251001,Anthropic,50,8
+claude-haiku-4-5-20251001,claude-haiku-4-5-20251001,Anthropic,50,8
+gpt-4o-mini,gpt-4o-mini,OpenAI,40,2
+aion-3.0-mini,Aion 3.0 Mini,Aion Labs,35,1
+hy3,Hy3,Tencent,34,1
+glm-5.2,GLM-5.2,Zhipu,32,3
+grok-4.5,grok-4.5,xAI,32,2
+glm-5.2,GLM-5.2,Zhipu,32,3
+grok-4.5,grok-4.5,xAI,32,2
+flux-schnell,Flux Schnell,Other,25,1
+gemini-3-pro-preview,gemini-3-pro-preview,Google,19,5
+gemini-3-pro-preview,gemini-3-pro-preview,Google,19,5
+gemini-3-pro-preview,gemini-3-pro-preview,Google,19,5
+gpt-4.1-mini,gpt-4.1-mini,OpenAI,18,1
+kimi-k3,kimi-k3,Moonshot,18,1
+aion-2.0,Aion 2.0,Aion Labs,16,1
+gemini-2.5-flash,gemini-2.5-flash,Google,13,4
+gemini-2.5-flash,gemini-2.5-flash,Google,13,4
+gpt-4o,gpt-4o,OpenAI,13,1
+claude-sonnet-4-5-20250929,claude-sonnet-4-5-20250929,Anthropic,9,2
+grok-4.20-0309-non-reasoning,grok-4.20-0309-non-reasoning,xAI,7,1
+mercury-2,Mercury 2,Other,5,1
+qwen3.7-flash,Qwen3.7 Flash,Alibaba,5,1
+realtime-flux,Realtime Flux,Other,5,1
+aion-2.5,Aion 2.5,Aion Labs,4,1
+dolphin-mistral,Dolphin Mistral,Other,4,1
+gpt-5.3-codex,gpt-5.3-codex,OpenAI,4,2
+grok-4.20-0309-reasoning,grok-4.20-0309-reasoning,xAI,4,1
+qwen3-14b,Qwen3 14B,Alibaba,4,1
+aion-rp-llama-3.1-8b,Aion-RP 1.0 (8B),Aion Labs,3,1
+gpt-4.1,gpt-4.1,OpenAI,3,1
+mercury-edit-2,Mercury Edit 2,Other,3,1
+o3-mini,o3-mini,OpenAI,3,1
+qwen3.8-max,Qwen3.8 Max,Alibaba,3,1
+codex-auto-review,codex-auto-review,Other,2,3
+gpt-image-2-pool,GPT Image 2,OpenAI,2,1
+ling-3.0-flash,Ling 3.0 Flash,InclusionAI,2,1
+north-mini-code,North Mini Code,Other,2,1
+qwen3-max,Qwen3 Max,Alibaba,2,1
+text-embedding-v4,Text Embedding V4,Alibaba,2,1
+3d-image,Image-to-3D,Other,1,1
+bg-remover,Background Remover,Other,1,1
+claude-opus-4-6-thinking,[req]claude-opus-4-6-thinking,Anthropic,1,2
+claude-sonnet-4-6-thinking,claude-sonnet-4-6-thinking-r,Anthropic,1,2
+controlnet,ControlNet,Other,1,1
+deepseek-v3.2,DeepSeek V3.2,DeepSeek,1,1
+face-swap,Face Swap,Other,1,1
+flux-pro,Flux Pro,Other,1,1
+gemini-2.5-flash-lite,gemini-2.5-flash-lite,Google,1,2
+gemini-3.1-flash-lite-preview,gemini-3.1-flash-lite-preview,Google,1,2
+img2img,Image-to-Image,Other,1,1
+inpaint,Inpaint,Other,1,1
+mimo-v2.5,MiMo V2.5,Xiaomi,1,1
+nemotron-3-ultra,nemotron-3-ultra,NVIDIA,1,2
+o1,o1,OpenAI,1,1
+qwen-2512,Qwen 2512,Alibaba,1,1
+qwen-plus-character,Qwen Plus Character,Alibaba,1,1
+qwen-vl-ocr,Qwen-VL OCR,Alibaba,1,1
+claude-opus-4-6-thinking,[req]claude-opus-4-6-thinking,Anthropic,1,2
+claude-sonnet-4-6-thinking,claude-sonnet-4-6-thinking-r,Anthropic,1,2
+sd-3-5,Stable Diffusion 3.5,Other,1,1
+sdxl-lightning,SDXL Lightning,Other,1,1
+super-resolution,Super Resolution,Other,1,1
+text-embedding-ada-002,text-embedding-ada-002,OpenAI,1,2
+uncrop,Uncrop / Outpaint,Other,1,1
+3d-text,Text-to-3D,Other,0,1
+claude-opus-4-5-20251101,claude-opus-4-5-20251101,Anthropic,0,6
+claude-opus-4-6,claude-opus-4-6,Anthropic,0,10
+claude-opus-4-6,claude-opus-4-6,Anthropic,0,10
+cogvideo-x,CogVideoX,Other,0,1
+deepseek-v4-flash-0731,DeepSeek V4 Flash 0731,DeepSeek,0,1
+dreamshaper,DreamShaper,Other,0,1
+flux,Flux,Other,0,1
+flux-2,Flux 2,Other,0,1
+flux2-klein-4b,Flux 2 Klein 4B,Other,0,1
+flux-dev,Flux Dev,Other,0,1
+flux-kontext,Flux Kontext,Other,0,1
+gemini-2.5-flash-image,gemini-2.5-flash-image,Google,0,2
+gemini-3.1-flash-image,gemini-3.1-flash-image,Google,0,2
+gemini-3.1-flash-image-preview,gemini-3.1-flash-image-preview,Google,0,1
+gemini-3.1-flash-lite-image,gemini-3.1-flash-lite-image,Google,0,1
+gemini-3.1-pro-preview-customtools,gemini-3.1-pro-preview-customtools,Google,0,1
+gemini-3.5-flash-lite,gemini-3.5-flash-lite,Google,0,2
+gemini-3-pro-image,gemini-3-pro-image,Google,0,2
+gemini-3-pro-image-preview,gemini-3-pro-image-preview,Google,0,1
+gemini-embedding-2-preview,gemini-embedding-2-preview,Google,0,1
+glm-5.1,[req]glm-5.1,Zhipu,0,2
+glm-5.2-fast-preview,GLM-5.2 Fast Preview,Zhipu,0,1
+gpt-5.1,gpt-5.1,OpenAI,0,2
+gpt-image-2-c,gpt-image-2-c,OpenAI,0,1
+grok-4.20-multi-agent-0309,grok-4.20-multi-agent-0309,xAI,0,1
+grok-4.3,grok-4.3,xAI,0,2
+grok-build-0.1,grok-build-0.1,xAI,0,1
+grok-imagine-image,grok-imagine-image,xAI,0,1
+grok-imagine-image-quality,grok-imagine-image-quality,xAI,0,1
+juggernaut-xl,Juggernaut XL,Other,0,1
+kimi-k2.7-code,Kimi K2.7 Code,Moonshot,0,1
+krea/krea-1,Krea 1,Other,0,1
+krea/krea-2-large,Krea 2 Large,Other,0,1
+krea/krea-2-medium,Krea 2 Medium,Other,0,1
+krea/krea-2-turbo,Krea 2 Turbo,Other,0,1
+laguna-s-2.1,Laguna S 2.1,Other,0,1
+longcat-2.0,Longcat 2.0,Other,0,1
+mochi-1,Mochi 1,Other,0,1
+music-gen,Music Generation,Other,0,1
+mythomax-13b,MythoMax 13B,Other,0,1
+nai-diffusion-4-curated-preview,nai-diffusion-4-curated-preview,Other,0,1
+nai-diffusion-4-full,nai-diffusion-4-full,Other,0,1
+pony-realism,Pony Realism,Other,0,1
+qwen,Qwen,Alibaba,0,1
+qwen3-235b-a22b,Qwen3 235B A22B,Alibaba,0,1
+qwen3-235b-a22b-instruct-2507,Qwen3 235B A22B Instruct 2507,Alibaba,0,1
+qwen3-235b-a22b-thinking-2507,Qwen3 235B A22B Thinking 2507,Alibaba,0,1
+qwen3-30b-a3b,Qwen3 30B A3B,Alibaba,0,1
+qwen3-30b-a3b-instruct-2507,Qwen3 30B A3B Instruct 2507,Alibaba,0,1
+qwen3-30b-a3b-thinking-2507,Qwen3 30B A3B Thinking 2507,Alibaba,0,1
+qwen3.5-122b-a10b,Qwen3.5 122B A10B,Alibaba,0,1
+qwen3.5-27b,Qwen3.5 27B,Alibaba,0,1
+qwen3.5-35b-a3b,Qwen3.5 35B A3B,Alibaba,0,1
+qwen3.5-397b-a17b,Qwen3.5 397B A17B,Alibaba,0,1
+qwen3.5-flash,Qwen3.5 Flash,Alibaba,0,1
+qwen3.5-plus,Qwen3.5 Plus,Alibaba,0,1
+qwen3.6-27b,Qwen3.6 27B,Alibaba,0,1
+qwen3.6-35b-a3b,Qwen3.6 35B A3B,Alibaba,0,1
+qwen3.6-flash,Qwen3.6 Flash,Alibaba,0,1
+qwen3.6-max-preview,Qwen3.6 Max Preview,Alibaba,0,1
+qwen3.6-plus,Qwen3.6 Plus,Alibaba,0,1
+qwen3.7-max,Qwen3.7 Max,Alibaba,0,1
+qwen3.7-max-preview,Qwen3.7 Max Preview,Alibaba,0,1
+qwen3.7-plus,Qwen3.7 Plus,Alibaba,0,1
+qwen3-8b,Qwen3 8B,Alibaba,0,1
+qwen3-coder-480b-a35b-instruct,Qwen3 Coder 480B A35B,Alibaba,0,1
+qwen3-coder-flash,Qwen3 Coder Flash,Alibaba,0,1
+qwen3-coder-next,Qwen3 Coder Next,Alibaba,0,1
+qwen3-coder-plus,Qwen3 Coder Plus,Alibaba,0,1
+qwen3-next-80b-a3b-instruct,Qwen3 Next 80B A3B Instruct,Alibaba,0,1
+qwen3-next-80b-a3b-thinking,Qwen3 Next 80B A3B Thinking,Alibaba,0,1
+qwen3-vl-235b-a22b-instruct,Qwen3-VL 235B A22B Instruct,Alibaba,0,1
+qwen3-vl-235b-a22b-thinking,Qwen3-VL 235B A22B Thinking,Alibaba,0,1
+qwen3-vl-flash,Qwen3-VL Flash,Alibaba,0,1
+qwen3-vl-plus,Qwen3-VL Plus,Alibaba,0,1
+qwen-flash,Qwen Flash,Alibaba,0,1
+qwen-flash-character,Qwen Flash Character,Alibaba,0,1
+qwen-max,Qwen Max,Alibaba,0,1
+qwen-mt-flash,Qwen-MT Flash,Alibaba,0,1
+qwen-mt-lite,Qwen-MT Lite,Alibaba,0,1
+qwen-mt-plus,Qwen-MT Plus,Alibaba,0,1
+qwen-mt-turbo,Qwen-MT Turbo,Alibaba,0,1
+qwen-plus,Qwen Plus,Alibaba,0,1
+qwen-turbo,Qwen Turbo,Alibaba,0,1
+qwen-vl-max,Qwen-VL Max,Alibaba,0,1
+qwen-vl-plus,Qwen-VL Plus,Alibaba,0,1
+qwq-plus,QwQ Plus,Alibaba,0,1
+realistic-vision,Realistic Vision,Other,0,1
+realtime-sd,Realtime SD,Other,0,1
+claude-opus-4-5,[req]claude-opus-4-5,Anthropic,0,1
+claude-opus-4-5-thinking,[req]claude-opus-4-5-thinking,Anthropic,0,1
+claude-opus-4-6,claude-opus-4-6,Anthropic,0,10
+claude-opus-4-7-thinking,[req]claude-opus-4-7-thinking,Anthropic,0,1
+glm-5.1,[req]glm-5.1,Zhipu,0,2
+grok-4.2,[req]grok-4.2,xAI,0,1
+grok-420-fast,[req]grok-420-fast,xAI,0,1
+grok-4.3,grok-4.3,xAI,0,2
+sdxl-base,SDXL Base,Other,0,1
+text-embedding-3-large,text-embedding-3-large,OpenAI,0,2
+text-embedding-v3,Text Embedding V3,Alibaba,0,1
+video-img2vid,Image-to-Video,Other,0,1
+video-txt,Text-to-Video,Other,0,1
+video-txt-ultra,Text-to-Video Ultra,Other,0,1
+voice-clone,Voice Clone,Other,0,1
+voice-cover,Voice Cover,Other,0,1
+voice-tts,Voice TTS,Other,0,1
+wan-2.2-t2i,Wan 2.2,Other,0,1
+z-image,Z-Image,Other,0,1

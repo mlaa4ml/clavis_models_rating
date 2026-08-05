@@ -11,35 +11,35 @@
 ## Текущий рейтинг
 
 <!-- RATING_TABLE_START -->
-_Обновлено: 2026-08-04 (UTC) · моделей в рейтинге: 132_
+_Обновлено: 2026-08-05 (UTC) · моделей в рейтинге: 189_
 
 | # | Модель | Провайдер | Запросов (30 дн.) | Δ к пред. дню |
 |---|--------|-----------|-------------------:|--------------:|
-| 1 | gemini-3.1-pro-preview | Google | 4 539 | 🔻 -9 |
+| 1 | gemini-3.1-pro-preview | Google | 4 720 | 🔺 +181 |
 | 2 | gpt-5.6-sol | OpenAI | 4 392 | 0 |
-| 3 | deepseek-v4-pro | DeepSeek | 2 149 | 🔺 +15 |
-| 4 | gpt-5.6-luna | OpenAI | 2 104 | 🔺 +42 |
+| 3 | deepseek-v4-pro | DeepSeek | 2 151 | 🔺 +2 |
+| 4 | gpt-5.6-luna | OpenAI | 2 120 | 🔺 +16 |
 | 5 | claude-sonnet-4-6 | Anthropic | 1 688 | 0 |
-| 6 | deepseek-v4-flash | DeepSeek | 1 504 | 🔺 +16 |
-| 7 | gemini-3-flash-preview | Google | 1 500 | 🔺 +132 |
-| 8 | gpt-5.5 | OpenAI | 1 181 | 🔻 -49 |
-| 9 | claude-opus-4-8 | Anthropic | 1 141 | 🔻 -174 |
+| 6 | deepseek-v4-flash | DeepSeek | 1 504 | 0 |
+| 7 | gemini-3-flash-preview | Google | 1 500 | 0 |
+| 8 | gpt-5.5 | OpenAI | 1 465 | 🔺 +284 |
+| 9 | claude-opus-4-8 | Anthropic | 1 141 | 0 |
 | 10 | claude-opus-4-7 | Anthropic | 987 | 0 |
-| 11 | gpt-5-mini | OpenAI | 974 | 🔻 -37 |
-| 12 | gpt-5.4-mini | OpenAI | 959 | 🔻 -37 |
-| 13 | gemini-3.1-flash-lite | Google | 752 | 0 |
-| 14 | claude-opus-5 | Anthropic | 736 | 0 |
-| 15 | gpt-5-nano | OpenAI | 679 | 0 |
-| 16 | gemini-3.6-flash | Google | 609 | 0 |
-| 17 | gpt-5.4 | OpenAI | 526 | 🔻 -41 |
-| 18 | claude-sonnet-5 | Anthropic | 509 | 🔺 +42 |
-| 19 | gpt-5.6-terra | OpenAI | 359 | 🔺 +187 |
-| 20 | gemini-3.5-flash | Google | 296 | 🔻 -1 |
+| 11 | gpt-5-mini | OpenAI | 974 | 0 |
+| 12 | gpt-5.4-mini | OpenAI | 959 | 0 |
+| 13 | gpt-5.6-terra | OpenAI | 814 | 🔺 +455 |
+| 14 | gemini-3.1-flash-lite | Google | 752 | 0 |
+| 15 | claude-opus-5 | Anthropic | 736 | 0 |
+| 16 | gpt-5-nano | OpenAI | 681 | 🔺 +2 |
+| 17 | gemini-3.6-flash | Google | 613 | 🔺 +4 |
+| 18 | gpt-5.4 | OpenAI | 526 | 0 |
+| 19 | claude-sonnet-5 | Anthropic | 509 | 0 |
+| 20 | gemini-3.5-flash | Google | 296 | 0 |
 | 21 | gemini-2.5-pro | Google | 239 | 0 |
 | 22 | text-embedding-3-small | OpenAI | 203 | 0 |
-| 23 | claude-fable-5 | Anthropic | 178 | 🔻 -32 |
-| 24 | Aion 3.0 | Aion Labs | 167 | 0 |
-| 25 | gemini-embedding-001 | Google | 113 | 🔻 -3 |
+| 23 | claude-fable-5 | Anthropic | 178 | 0 |
+| 24 | Aion 3.0 | Aion Labs | 171 | 🔺 +4 |
+| 25 | gemini-embedding-001 | Google | 113 | 0 |
 <!-- RATING_TABLE_END -->
 
 ## Как это работает
