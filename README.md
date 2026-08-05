@@ -3,7 +3,7 @@
 Автоматически собирает статистику по всем моделям [Clavis.to](https://clavis.to/models)
 и раз в день обновляет таблицы через GitHub Actions.
 
-📊 **[Расширенные рейтинги → GitHub Pages](https://YOUR_USERNAME.github.io/clavis-rating/)**
+📊 **[Расширенные рейтинги → GitHub Pages](https://mlaa4ml.github.io/clavis-rating/)**
 _(замени YOUR_USERNAME на свой GitHub login и включи Pages из ветки `main`, папки `docs/`)_
 
 ## Текущий рейтинг (по запросам за 30 дней)
@@ -106,4 +106,4 @@ python scripts/build_ratings_page.py # собрать HTML → docs/index.html
 
 ## Расписание
 
-По умолчанию — 06:00 UTC. Менять в `.github/workflows/daily-rating.yml`, поле `cron`.
+По умолчанию — 07:22 UTC. Менять в `.github/workflows/daily-rating.yml`, поле `cron`.
