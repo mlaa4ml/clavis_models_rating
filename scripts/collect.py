@@ -44,10 +44,25 @@ ERRORS_CSV = os.path.join(SNAPSHOTS_DIR, f"errors_{TODAY}.csv")
 REQUEST_TIMEOUT = 15
 PAUSE_BETWEEN_CALLS = 0.35
 
-USER_AGENT = "clavis-rating-github-actions/1.0" #  (+https://github.com/nltagent/clavis_models_rating)
+USER_AGENT = "clavis-rating-github-actions/1.0"
+
+
+def _assert_ascii_header(value: str, header_name: str):
+    """HTTP-заголовки должны быть latin-1/ASCII. Если кто-то впишет в
+    USER_AGENT кириллицу или другие не-ASCII символы, лучше упасть здесь
+    с понятным сообщением, чем ловить UnicodeEncodeError глубоко внутри
+    urllib3."""
+    try:
+        value.encode("latin-1")
+    except UnicodeEncodeError as e:
+        raise ValueError(
+            f"{header_name} содержит символы, недопустимые в HTTP-заголовках "
+            f"(нужен ASCII/latin-1): {value!r}. Убери кириллицу/эмодзи из значения."
+        ) from e
 
 
 def build_session() -> requests.Session:
+    _assert_ascii_header(USER_AGENT, "USER_AGENT")
     session = requests.Session()
     session.headers.update({
         "User-Agent": USER_AGENT,
@@ -110,11 +125,23 @@ def fetch_model_stats(session: requests.Session, model_id: str):
 
 
 def append_to_history(results):
-    is_new_file = not os.path.exists(HISTORY_CSV)
-    with open(HISTORY_CSV, "a", newline="", encoding="utf-8") as f:
+    """Дописываем сегодняшний снапшот в историю. Идемпотентно: если в
+    history.csv уже есть строки за TODAY (например, скрипт уже запускался
+    сегодня раньше — при повторных подстраховочных триггерах), сначала
+    убираем старые строки за эту дату, потом пишем свежие. Это делает
+    безопасным запуск скрипта несколько раз в один день (что и нужно для
+    схемы с несколькими независимыми cron-триггерами про запас)."""
+    existing_rows = []
+    if os.path.exists(HISTORY_CSV):
+        with open(HISTORY_CSV, newline="", encoding="utf-8") as f:
+            reader = csv.DictReader(f)
+            existing_rows = [row for row in reader if row["date"] != TODAY]
+
+    with open(HISTORY_CSV, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=["date", "base_id", "display_name", "vendor", "total_requests"])
-        if is_new_file:
-            writer.writeheader()
+        writer.writeheader()
+        for row in existing_rows:
+            writer.writerow(row)
         for r in results:
             writer.writerow({
                 "date": TODAY,

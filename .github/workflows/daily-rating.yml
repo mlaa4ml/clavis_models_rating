@@ -2,8 +2,8 @@ name: Daily Clavis Rating
 
 on:
   schedule:
-    # 07:22 UTC каждый день = 10:22 МСК. Время в cron всегда UTC.
-    - cron: '22 7 * * *'
+    # 06:00 UTC каждый день = 09:00 МСК. Время в cron всегда UTC.
+    - cron: '0 6 * * *'
   workflow_dispatch: {}   # позволяет запускать вручную из вкладки Actions
 
 # Нужны права на запись, чтобы workflow мог закоммитить обновлённые
