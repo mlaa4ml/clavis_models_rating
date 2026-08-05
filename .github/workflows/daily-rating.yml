@@ -2,12 +2,10 @@ name: Daily Clavis Rating
 
 on:
   schedule:
-    # 06:00 UTC каждый день = 09:00 МСК. Время в cron всегда UTC.
+    # 06:00 UTC каждый день = 09:00 МСК
     - cron: '0 6 * * *'
-  workflow_dispatch: {}   # позволяет запускать вручную из вкладки Actions
+  workflow_dispatch: {}
 
-# Нужны права на запись, чтобы workflow мог закоммитить обновлённые
-# data/*.csv и README.md обратно в репозиторий.
 permissions:
   contents: write
 
@@ -32,17 +30,27 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      # ── Единственный сборщик ───────────────────────────────────────────────
+      # collect.py удалён: он делал те же HTTP-запросы, но сохранял меньше
+      # полей. collect_extended.py — его полная замена. Если в репозитории
+      # ещё остался старый data/history.csv, запусти один раз вручную:
+      #   python scripts/migrate_history.py
+      # и перенесёшь накопленную историю в extended_history.csv без потерь.
       - name: Collect model stats
-        run: python scripts/collect.py
+        run: python scripts/collect_extended.py
 
+      # ── Потребители данных — читают extended_history.csv ──────────────────
       - name: Update README rating table
         run: python scripts/update_readme.py
+
+      - name: Build extended ratings page (GitHub Pages)
+        run: python scripts/build_ratings_page.py
 
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/ README.md
+          git add data/ README.md docs/
           if git diff --cached --quiet; then
             echo "Нет изменений — коммит не нужен."
           else

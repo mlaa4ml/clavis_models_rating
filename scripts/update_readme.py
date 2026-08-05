@@ -1,14 +1,16 @@
 #!/usr/bin/env python3
 """
-Генерирует таблицу рейтинга (топ-N моделей по запросам за 30 дней, с дельтой
-к предыдущему дню) и вставляет её в README.md между маркерами:
+Генерирует таблицу рейтинга и вставляет её в README.md между маркерами:
 
     <!-- RATING_TABLE_START -->
-    ... (сюда подставляется таблица) ...
+    ...
     <!-- RATING_TABLE_END -->
 
-Запускается после collect.py в том же workflow-запуске, читает уже
-обновлённый data/history.csv.
+ИЗМЕНЕНИЕ: теперь читает data/extended_history.csv вместо удалённого
+data/history.csv. Формат совместим — колонки date, base_id, display_name,
+vendor, total_requests присутствуют в обоих. Строки без total_requests
+(например, мигрированные из старого файла без этого поля) обрабатываются
+корректно — выводятся как «—».
 """
 
 import csv
@@ -17,7 +19,7 @@ import os
 
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.path.join(REPO_ROOT, "data")
-HISTORY_CSV = os.path.join(DATA_DIR, "history.csv")
+HISTORY_CSV = os.path.join(DATA_DIR, "extended_history.csv")  # ← было history.csv
 README_PATH = os.path.join(REPO_ROOT, "README.md")
 
 START_MARKER = "<!-- RATING_TABLE_START -->"
@@ -27,17 +29,14 @@ TOP_N = 25
 
 
 def load_history():
-    """Читаем всю историю, группируем по датам."""
-    by_date = {}  # date -> {base_id: row}
+    by_date = {}
     if not os.path.exists(HISTORY_CSV):
         return by_date
-
     with open(HISTORY_CSV, newline="", encoding="utf-8") as f:
-        reader = csv.DictReader(f)
-        for row in reader:
+        for row in csv.DictReader(f):
             date = row["date"]
             by_date.setdefault(date, {})
-            total = row["total_requests"]
+            total = row.get("total_requests")
             row["total_requests"] = int(total) if total not in (None, "", "None") else None
             by_date[date][row["base_id"]] = row
     return by_date
@@ -64,19 +63,19 @@ def build_table(by_date):
     lines.append("|---|--------|-----------|-------------------:|--------------:|")
 
     for i, r in enumerate(rows[:TOP_N], 1):
-        name = r["display_name"] or r["base_id"]
-        vendor = r["vendor"] or "—"
+        name = r.get("display_name") or r["base_id"]
+        vendor = r.get("vendor") or "—"
         total = r["total_requests"]
-        total_str = f"{total:,}".replace(",", " ") if total is not None else "—"
+        total_str = f"{total:,}".replace(",", "\u202f") if total is not None else "—"
 
         prev_row = prev.get(r["base_id"])
         delta_str = "—"
-        if total is not None and prev_row and prev_row["total_requests"] is not None:
+        if total is not None and prev_row and prev_row.get("total_requests") is not None:
             delta = total - prev_row["total_requests"]
             if delta > 0:
-                delta_str = f"🔺 +{delta:,}".replace(",", " ")
+                delta_str = f"🔺 +{delta:,}".replace(",", "\u202f")
             elif delta < 0:
-                delta_str = f"🔻 {delta:,}".replace(",", " ")
+                delta_str = f"🔻 {delta:,}".replace(",", "\u202f")
             else:
                 delta_str = "0"
 
@@ -87,24 +86,15 @@ def build_table(by_date):
 
 def update_readme(table_markdown: str):
     if not os.path.exists(README_PATH):
-        raise FileNotFoundError(f"README.md не найден по пути {README_PATH}")
-
+        raise FileNotFoundError(f"README.md не найден: {README_PATH}")
     with open(README_PATH, encoding="utf-8") as f:
         content = f.read()
-
     if START_MARKER not in content or END_MARKER not in content:
-        raise ValueError(
-            f"В README.md не найдены маркеры {START_MARKER} / {END_MARKER}. "
-            "Проверь, что они есть в файле дословно."
-        )
-
+        raise ValueError(f"Маркеры {START_MARKER} / {END_MARKER} не найдены в README.md")
     before = content.split(START_MARKER)[0]
     after = content.split(END_MARKER)[1]
-
-    new_content = f"{before}{START_MARKER}\n{table_markdown}\n{END_MARKER}{after}"
-
     with open(README_PATH, "w", encoding="utf-8") as f:
-        f.write(new_content)
+        f.write(f"{before}{START_MARKER}\n{table_markdown}\n{END_MARKER}{after}")
 
 
 def main():
