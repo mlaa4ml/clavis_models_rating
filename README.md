@@ -9,8 +9,35 @@ _(замени YOUR_USERNAME на свой GitHub login и включи Pages и
 ## Текущий рейтинг (по запросам за 30 дней)
 
 <!-- RATING_TABLE_START -->
-_Данные ещё не собраны. Дождись первого запуска workflow'а или запусти его
-вручную (Actions → Daily Clavis Rating → Run workflow)._
+_Обновлено: 2026-08-05 (UTC) · моделей в рейтинге: 189_
+
+| # | Модель | Провайдер | Запросов (30 дн.) | Δ к пред. дню |
+|---|--------|-----------|-------------------:|--------------:|
+| 1 | gemini-3.1-pro-preview | Google | 4 735 | 🔺 +196 |
+| 2 | gpt-5.6-sol | OpenAI | 4 392 | 0 |
+| 3 | deepseek-v4-pro | DeepSeek | 2 161 | 🔺 +12 |
+| 4 | gpt-5.6-luna | OpenAI | 2 120 | 🔺 +16 |
+| 5 | claude-sonnet-4-6 | Anthropic | 1 688 | 0 |
+| 6 | deepseek-v4-flash | DeepSeek | 1 509 | 🔺 +5 |
+| 7 | gemini-3-flash-preview | Google | 1 503 | 🔺 +3 |
+| 8 | gpt-5.5 | OpenAI | 1 465 | 🔺 +284 |
+| 9 | claude-opus-4-8 | Anthropic | 1 141 | 0 |
+| 10 | claude-opus-4-7 | Anthropic | 987 | 0 |
+| 11 | gpt-5-mini | OpenAI | 974 | 0 |
+| 12 | gpt-5.4-mini | OpenAI | 972 | 🔺 +13 |
+| 13 | gpt-5.6-terra | OpenAI | 814 | 🔺 +455 |
+| 14 | gemini-3.1-flash-lite | Google | 752 | 0 |
+| 15 | claude-opus-5 | Anthropic | 736 | 0 |
+| 16 | gpt-5-nano | OpenAI | 681 | 🔺 +2 |
+| 17 | gemini-3.6-flash | Google | 613 | 🔺 +4 |
+| 18 | gpt-5.4 | OpenAI | 526 | 0 |
+| 19 | claude-sonnet-5 | Anthropic | 509 | 0 |
+| 20 | gemini-3.5-flash | Google | 296 | 0 |
+| 21 | gemini-2.5-pro | Google | 239 | 0 |
+| 22 | text-embedding-3-small | OpenAI | 215 | 🔺 +12 |
+| 23 | claude-fable-5 | Anthropic | 178 | 0 |
+| 24 | Aion 3.0 | Aion Labs | 171 | 🔺 +4 |
+| 25 | gemini-embedding-001 | Google | 114 | 🔺 +1 |
 <!-- RATING_TABLE_END -->
 
 ## Расширенные рейтинги (GitHub Pages)
