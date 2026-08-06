@@ -3,7 +3,7 @@
 Автоматически собирает статистику по всем моделям [Clavis.to](https://clavis.to/models)
 и раз в день обновляет таблицы через GitHub Actions.
 
-📊 **[Расширенные рейтинги → GitHub Pages](https://mlaa4ml.github.io/clavis-rating/)**
+📊 **[Расширенные рейтинги → GitHub Pages]([https://mlaa4ml.github.io/clavis_models_rating/]**
 _(замени YOUR_USERNAME на свой GitHub login и включи Pages из ветки `main`, папки `docs/`)_
 
 ## Текущий рейтинг (по запросам за 30 дней)
