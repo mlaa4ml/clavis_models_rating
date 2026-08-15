@@ -9,35 +9,35 @@ _(замени YOUR_USERNAME на свой GitHub login и включи Pages и
 ## Текущий рейтинг (по запросам за 30 дней)
 
 <!-- RATING_TABLE_START -->
-_Обновлено: 2026-08-14 (UTC) · моделей в рейтинге: 210_
+_Обновлено: 2026-08-15 (UTC) · моделей в рейтинге: 207_
 
 | # | Модель | Провайдер | Запросов (30 дн.) | Δ к пред. дню |
 |---|--------|-----------|-------------------:|--------------:|
-| 1 | gemini-3.1-pro-preview | Google | 5 659 | 🔺 +163 |
-| 2 | gpt-5.6-luna | OpenAI | 3 605 | 🔺 +214 |
-| 3 | gpt-5.5 | OpenAI | 2 413 | 🔻 -26 |
-| 4 | deepseek-v4-pro | DeepSeek | 2 019 | 🔻 -13 |
-| 5 | claude-sonnet-4-6 | Anthropic | 1 680 | 🔺 +1 |
-| 6 | gpt-5.6-terra | OpenAI | 1 575 | 🔻 -28 |
-| 7 | claude-opus-5 | Anthropic | 1 204 | 🔺 +59 |
-| 8 | gpt-5.6-sol | OpenAI | 1 187 | 🔻 -826 |
-| 9 | claude-opus-4-7 | Anthropic | 1 035 | 🔺 +48 |
-| 10 | gemini-3-flash-preview | Google | 884 | 🔻 -1 |
+| 1 | gemini-3.1-pro-preview | Google | 5 742 | 🔺 +83 |
+| 2 | gpt-5.6-luna | OpenAI | 3 767 | 🔺 +162 |
+| 3 | gpt-5.5 | OpenAI | 2 350 | 🔻 -63 |
+| 4 | deepseek-v4-pro | DeepSeek | 2 003 | 🔻 -16 |
+| 5 | claude-sonnet-4-6 | Anthropic | 1 681 | 🔺 +1 |
+| 6 | gpt-5.6-terra | OpenAI | 1 675 | 🔺 +100 |
+| 7 | claude-opus-5 | Anthropic | 1 210 | 🔺 +6 |
+| 8 | gpt-5.6-sol | OpenAI | 1 043 | 🔻 -144 |
+| 9 | claude-opus-4-7 | Anthropic | 967 | 🔻 -68 |
+| 10 | gemini-3-flash-preview | Google | 884 | 0 |
 | 11 | claude-sonnet-5 | Anthropic | 875 | 0 |
-| 12 | claude-opus-4-8 | Anthropic | 811 | 🔻 -17 |
-| 13 | gpt-5.4-mini | OpenAI | 795 | 🔺 +6 |
-| 14 | gpt-5-mini | OpenAI | 757 | 🔻 -53 |
-| 15 | gemini-3.6-flash | Google | 714 | 🔺 +6 |
+| 12 | claude-opus-4-8 | Anthropic | 822 | 🔺 +11 |
+| 13 | gpt-5.4-mini | OpenAI | 723 | 🔻 -72 |
+| 14 | gemini-3.6-flash | Google | 716 | 🔺 +2 |
+| 15 | gpt-5-mini | OpenAI | 710 | 🔻 -47 |
 | 16 | gpt-5-nano | OpenAI | 682 | 0 |
 | 17 | gemini-3.1-flash-lite | Google | 629 | 0 |
-| 18 | DeepSeek V4 Flash 0731 | DeepSeek | 523 | 🔺 +17 |
-| 19 | deepseek-v4-flash | DeepSeek | 416 | 🔻 -105 |
-| 20 | kimi-k3 | Moonshot | 346 | 🔺 +4 |
-| 21 | gpt-5.4 | OpenAI | 341 | 🔻 -6 |
-| 22 | GLM-5.2 | Zhipu | 296 | 🔺 +5 |
-| 23 | text-embedding-3-small | OpenAI | 187 | 🔺 +2 |
-| 24 | claude-fable-5 | Anthropic | 161 | 🔻 -15 |
-| 25 | Aion 3.0 | Aion Labs | 160 | 🔺 +1 |
+| 18 | DeepSeek V4 Flash 0731 | DeepSeek | 592 | 🔺 +69 |
+| 19 | deepseek-v4-flash | DeepSeek | 409 | 🔻 -7 |
+| 20 | kimi-k3 | Moonshot | 349 | 🔺 +3 |
+| 21 | gpt-5.4 | OpenAI | 342 | 🔺 +1 |
+| 22 | GLM-5.2 | Zhipu | 313 | 🔺 +17 |
+| 23 | text-embedding-3-small | OpenAI | 187 | 0 |
+| 24 | Aion 3.0 | Aion Labs | 153 | 🔻 -7 |
+| 25 | claude-fable-5 | Anthropic | 140 | 🔻 -21 |
 <!-- RATING_TABLE_END -->
 
 ## Расширенные рейтинги (GitHub Pages)
