@@ -9,35 +9,35 @@ _(замени YOUR_USERNAME на свой GitHub login и включи Pages и
 ## Текущий рейтинг (по запросам за 30 дней)
 
 <!-- RATING_TABLE_START -->
-_Обновлено: 2026-08-18 (UTC) · моделей в рейтинге: 326_
+_Обновлено: 2026-08-19 (UTC) · моделей в рейтинге: 360_
 
 | # | Модель | Провайдер | Запросов (30 дн.) | Δ к пред. дню |
 |---|--------|-----------|-------------------:|--------------:|
-| 1 | DeepSeek V4 Flash 0731 | DeepSeek | 4 713 | 🔺 +1 863 |
-| 2 | Gemini 3.1 Pro Preview | Google | 849 | 🔻 -5 047 |
-| 3 | Claude Sonnet 5 | Anthropic | 239 | 🔻 -708 |
-| 4 | GPT-5.4 | OpenAI | 222 | 🔻 -358 |
-| 5 | Qwen3.7 Flash | Alibaba | 217 | 0 |
-| 6 | DeepSeek V4 Flash 0731 | DeepSeek | 155 | 🔻 -156 |
-| 7 | Aion-3.0 | Aion Labs | 140 | 0 |
-| 8 | Claude Sonnet 4.6 | Anthropic | 125 | 🔺 +125 |
-| 9 | Hy3 | Tencent | 48 | 0 |
-| 10 | GLM 5.2 | Zhipu | 45 | 🔻 -270 |
-| 11 | Aion-2.0 | Aion Labs | 37 | 🔺 +15 |
-| 12 | Qwen3.8 Max | Alibaba | 35 | 0 |
-| 13 | Gemini 3.7 Flash | Google | 34 | 🔺 +27 |
-| 14 | Qwen3 Coder Plus | Alibaba | 34 | 0 |
-| 15 | Claude Haiku 4.5 | Anthropic | 20 | 🔺 +20 |
-| 16 | Qwen3-VL Flash | Alibaba | 17 | 🔺 +17 |
-| 17 | Kimi K3 | Moonshot | 14 | 🔻 -317 |
-| 18 | Krea 2 Turbo | Other | 14 | 0 |
-| 19 | Voice Clone | Other | 14 | 0 |
-| 20 | GPT-5.6 Luna | OpenAI | 13 | 🔻 -4 450 |
-| 21 | Claude Sonnet 4.5 | Anthropic | 12 | 🔺 +12 |
-| 22 | DeepSeek V3.2 | DeepSeek | 12 | 0 |
-| 23 | GPT-5.6 Sol | OpenAI | 12 | 🔻 -1 067 |
-| 24 | Voice TTS | Other | 12 | 0 |
-| 25 | DeepSeek V4 Pro 0813 | DeepSeek | 11 | 🔻 -1 971 |
+| 1 | Gemini 3.1 Pro Preview | Google | 6 093 | 🔺 +5 244 |
+| 2 | GPT-5.6 Luna | OpenAI | 5 198 | 🔺 +5 185 |
+| 3 | DeepSeek V4 Flash 0731 | DeepSeek | 5 014 | 🔺 +301 |
+| 4 | GPT-5.5 | OpenAI | 2 263 | 🔺 +2 259 |
+| 5 | GPT-5.6 Terra | OpenAI | 2 087 | 🔺 +2 086 |
+| 6 | DeepSeek V4 Pro 0813 | DeepSeek | 1 979 | 🔺 +1 968 |
+| 7 | GPT-5.6 Sol | OpenAI | 1 238 | 🔺 +1 226 |
+| 8 | Claude Sonnet 5 | Anthropic | 1 172 | 🔺 +933 |
+| 9 | Gemini 3.6 Flash | Google | 975 | 🔺 +973 |
+| 10 | Claude Opus 4.8 | Anthropic | 913 | 🔺 +910 |
+| 11 | Gemini 3 Flash Preview | Google | 884 | — |
+| 12 | GPT-5.4 Mini | OpenAI | 773 | 🔺 +773 |
+| 13 | GPT-5 Nano | OpenAI | 686 | 🔺 +686 |
+| 14 | Gemini 3.1 Flash Lite | Google | 666 | 🔺 +666 |
+| 15 | Claude Opus 5 | Anthropic | 410 | 🔺 +403 |
+| 16 | GPT-5 Mini | OpenAI | 398 | 🔺 +396 |
+| 17 | DeepSeek V4 Flash 0731 | DeepSeek | 350 | 🔺 +195 |
+| 18 | GPT-5.4 | OpenAI | 349 | 🔺 +127 |
+| 19 | Kimi K3 | Moonshot | 332 | 🔺 +318 |
+| 20 | GLM 5.2 | Zhipu | 315 | 🔺 +270 |
+| 21 | Qwen3.7 Flash | Alibaba | 219 | 🔺 +2 |
+| 22 | text-embedding-3-small | OpenAI | 188 | — |
+| 23 | Aion-3.0 | Aion Labs | 141 | 🔺 +1 |
+| 24 | Claude Sonnet 4.6 | Anthropic | 141 | 🔺 +16 |
+| 25 | Claude Fable 5 | Anthropic | 109 | 🔺 +105 |
 <!-- RATING_TABLE_END -->
 
 ## Расширенные рейтинги (GitHub Pages)
