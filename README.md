@@ -9,35 +9,35 @@ _(замени YOUR_USERNAME на свой GitHub login и включи Pages и
 ## Текущий рейтинг (по запросам за 30 дней)
 
 <!-- RATING_TABLE_START -->
-_Обновлено: 2026-08-19 (UTC) · моделей в рейтинге: 360_
+_Обновлено: 2026-08-20 (UTC) · моделей в рейтинге: 357_
 
 | # | Модель | Провайдер | Запросов (30 дн.) | Δ к пред. дню |
 |---|--------|-----------|-------------------:|--------------:|
-| 1 | Gemini 3.1 Pro Preview | Google | 6 093 | 🔺 +5 244 |
-| 2 | GPT-5.6 Luna | OpenAI | 5 198 | 🔺 +5 185 |
-| 3 | DeepSeek V4 Flash 0731 | DeepSeek | 5 014 | 🔺 +301 |
-| 4 | GPT-5.5 | OpenAI | 2 263 | 🔺 +2 259 |
-| 5 | GPT-5.6 Terra | OpenAI | 2 087 | 🔺 +2 086 |
-| 6 | DeepSeek V4 Pro 0813 | DeepSeek | 1 979 | 🔺 +1 968 |
-| 7 | GPT-5.6 Sol | OpenAI | 1 238 | 🔺 +1 226 |
-| 8 | Claude Sonnet 5 | Anthropic | 1 172 | 🔺 +933 |
-| 9 | Gemini 3.6 Flash | Google | 975 | 🔺 +973 |
-| 10 | Claude Opus 4.8 | Anthropic | 913 | 🔺 +910 |
-| 11 | Gemini 3 Flash Preview | Google | 884 | — |
-| 12 | GPT-5.4 Mini | OpenAI | 773 | 🔺 +773 |
-| 13 | GPT-5 Nano | OpenAI | 686 | 🔺 +686 |
-| 14 | Gemini 3.1 Flash Lite | Google | 666 | 🔺 +666 |
-| 15 | Claude Opus 5 | Anthropic | 410 | 🔺 +403 |
-| 16 | GPT-5 Mini | OpenAI | 398 | 🔺 +396 |
-| 17 | DeepSeek V4 Flash 0731 | DeepSeek | 350 | 🔺 +195 |
-| 18 | GPT-5.4 | OpenAI | 349 | 🔺 +127 |
-| 19 | Kimi K3 | Moonshot | 332 | 🔺 +318 |
-| 20 | GLM 5.2 | Zhipu | 315 | 🔺 +270 |
-| 21 | Qwen3.7 Flash | Alibaba | 219 | 🔺 +2 |
-| 22 | text-embedding-3-small | OpenAI | 188 | — |
-| 23 | Aion-3.0 | Aion Labs | 141 | 🔺 +1 |
-| 24 | Claude Sonnet 4.6 | Anthropic | 141 | 🔺 +16 |
-| 25 | Claude Fable 5 | Anthropic | 109 | 🔺 +105 |
+| 1 | Gemini 3.1 Pro Preview | Google | 6 222 | 🔺 +129 |
+| 2 | GPT-5.6 Luna | OpenAI | 6 210 | 🔺 +1 012 |
+| 3 | DeepSeek V4 Flash 0731 | DeepSeek | 5 235 | 🔺 +221 |
+| 4 | GPT-5.6 Terra | OpenAI | 2 368 | 🔺 +281 |
+| 5 | GPT-5.5 | OpenAI | 2 241 | 🔻 -22 |
+| 6 | DeepSeek V4 Pro 0813 | DeepSeek | 1 986 | 🔺 +7 |
+| 7 | Claude Opus 4.7 | Anthropic | 1 940 | 🔺 +1 915 |
+| 8 | Claude Opus 5 | Anthropic | 1 857 | 🔺 +1 447 |
+| 9 | Claude Sonnet 4.6 | Anthropic | 1 750 | 🔺 +1 704 |
+| 10 | Claude Sonnet 5 | Anthropic | 1 287 | 🔺 +115 |
+| 11 | GPT-5.6 Sol | OpenAI | 1 201 | 🔻 -37 |
+| 12 | Claude Opus 4.8 | Anthropic | 1 056 | 🔺 +143 |
+| 13 | Gemini 3.6 Flash | Google | 976 | 🔺 +1 |
+| 14 | Gemini 3 Flash Preview | Google | 884 | 0 |
+| 15 | Gemini 3.1 Flash Lite | Google | 782 | 🔺 +116 |
+| 16 | GPT-5.4 Mini | OpenAI | 772 | 🔻 -1 |
+| 17 | GPT-5 Nano | OpenAI | 686 | 0 |
+| 18 | GPT-5 Mini | OpenAI | 404 | 🔺 +6 |
+| 19 | GPT-5.4 | OpenAI | 353 | 🔺 +4 |
+| 20 | DeepSeek V4 Flash 0731 | DeepSeek | 343 | 🔻 -7 |
+| 21 | Kimi K3 | Moonshot | 332 | 0 |
+| 22 | GLM 5.2 | Zhipu | 315 | 0 |
+| 23 | text-embedding-3-small | OpenAI | 235 | 🔺 +47 |
+| 24 | Qwen3.7 Flash | Alibaba | 226 | 🔺 +7 |
+| 25 | Grok 4.5 | xAI | 152 | 🔺 +52 |
 <!-- RATING_TABLE_END -->
 
 ## Расширенные рейтинги (GitHub Pages)
