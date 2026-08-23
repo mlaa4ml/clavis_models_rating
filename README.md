@@ -9,35 +9,35 @@ _(замени YOUR_USERNAME на свой GitHub login и включи Pages и
 ## Текущий рейтинг (по запросам за 30 дней)
 
 <!-- RATING_TABLE_START -->
-_Обновлено: 2026-08-22 (UTC) · моделей в рейтинге: 190_
+_Обновлено: 2026-08-23 (UTC) · моделей в рейтинге: 185_
 
 | # | Модель | Провайдер | Запросов (30 дн.) | Δ к пред. дню |
 |---|--------|-----------|-------------------:|--------------:|
-| 1 | DeepSeek V4 Flash 0731 | DeepSeek | 5 936 | 🔺 +175 |
+| 1 | DeepSeek V4 Flash 0731 | DeepSeek | 6 547 | 🔺 +611 |
 | 2 | Claude Opus 4.7 | Anthropic | 1 633 | 0 |
-| 3 | Gemini 3.1 Pro Preview | Google | 1 309 | 🔺 +40 |
-| 4 | Claude Opus 5 | Anthropic | 1 025 | 🔺 +144 |
-| 5 | GPT-5.6 Luna | OpenAI | 922 | 🔺 +762 |
-| 6 | Gemini 3 Flash Preview | Google | 878 | 0 |
-| 7 | Qwen3.7 Flash | Alibaba | 625 | 🔺 +360 |
-| 8 | GPT-5.6 Terra | OpenAI | 603 | 🔺 +431 |
-| 9 | GPT-5.6 Sol | OpenAI | 522 | 🔺 +297 |
-| 10 | GPT-5.4 Mini | OpenAI | 265 | 🔻 -114 |
-| 11 | DeepSeek V4 Flash 0731 | DeepSeek | 212 | 🔺 +4 |
-| 12 | Claude Sonnet 4.6 | Anthropic | 131 | 🔺 +11 |
-| 13 | DeepSeek V3.2 | DeepSeek | 122 | 🔺 +14 |
-| 14 | Aion-3.0 | Aion Labs | 107 | 🔻 -9 |
-| 15 | Gemini 3.6 Flash | Google | 97 | 🔺 +15 |
-| 16 | text-embedding-3-small@Azure | OpenAI | 74 | 🔺 +53 |
-| 17 | DeepSeek V4 Pro 0813 | DeepSeek | 73 | 🔺 +2 |
-| 18 | Hy3 | Tencent | 63 | 0 |
-| 19 | Grok 4.6 | xAI | 60 | 🔺 +14 |
-| 20 | Gemini 3.7 Flash | Google | 57 | 🔺 +38 |
-| 21 | GLM 5.2 | Zhipu | 51 | 0 |
-| 22 | Claude Sonnet 5 | Anthropic | 50 | 🔺 +3 |
-| 23 | Aion-2.0 | Aion Labs | 45 | 🔻 -1 |
-| 24 | Gemini 2.5 Pro | Google | 41 | 🔺 +19 |
-| 25 | GPT-5.5 | OpenAI | 41 | 🔺 +25 |
+| 3 | Gemini 3.1 Pro Preview | Google | 1 613 | 🔺 +304 |
+| 4 | GPT-5.6 Luna | OpenAI | 1 240 | 🔺 +318 |
+| 5 | Claude Opus 5 | Anthropic | 1 214 | 🔺 +189 |
+| 6 | Qwen3.7 Flash | Alibaba | 1 133 | 🔺 +508 |
+| 7 | Gemini 3 Flash Preview | Google | 878 | 0 |
+| 8 | GPT-5.6 Terra | OpenAI | 728 | 🔺 +125 |
+| 9 | GPT-5.6 Sol | OpenAI | 680 | 🔺 +158 |
+| 10 | text-embedding-3-small@Azure | OpenAI | 538 | 🔺 +464 |
+| 11 | Gemini 3.7 Flash | Google | 351 | 🔺 +294 |
+| 12 | DeepSeek V4 Flash 0731 | DeepSeek | 260 | 🔺 +48 |
+| 13 | Claude Sonnet 4.6 | Anthropic | 134 | 🔺 +3 |
+| 14 | DeepSeek V3.2 | DeepSeek | 122 | 0 |
+| 15 | Gemini 3.6 Flash | Google | 115 | 🔺 +18 |
+| 16 | GPT-5.5 | OpenAI | 106 | 🔺 +65 |
+| 17 | Grok 4.6 | xAI | 94 | 🔺 +34 |
+| 18 | GPT-5.4 Mini | OpenAI | 88 | 🔻 -177 |
+| 19 | GPT-5.4 | OpenAI | 80 | 🔺 +56 |
+| 20 | DeepSeek V4 Pro 0813 | DeepSeek | 77 | 🔺 +4 |
+| 21 | Gemini 2.5 Flash | Google | 68 | 🔺 +48 |
+| 22 | Hy3 | Tencent | 63 | 0 |
+| 23 | GLM 5.2 | Zhipu | 51 | 0 |
+| 24 | Claude Sonnet 5 | Anthropic | 50 | 0 |
+| 25 | Gemini 2.5 Pro | Google | 46 | 🔺 +5 |
 <!-- RATING_TABLE_END -->
 
 ## Расширенные рейтинги (GitHub Pages)
