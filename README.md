@@ -9,35 +9,35 @@ _(замени YOUR_USERNAME на свой GitHub login и включи Pages и
 ## Текущий рейтинг (по запросам за 30 дней)
 
 <!-- RATING_TABLE_START -->
-_Обновлено: 2026-08-27 (UTC) · моделей в рейтинге: 124_
+_Обновлено: 2026-08-28 (UTC) · моделей в рейтинге: 123_
 
 | # | Модель | Провайдер | Запросов (30 дн.) | Δ к пред. дню |
 |---|--------|-----------|-------------------:|--------------:|
-| 1 | Claude Opus 5 | Anthropic | 4 528 | 🔺 +783 |
-| 2 | GPT-5.6 Luna | OpenAI | 2 682 | 🔺 +1 122 |
-| 3 | Gemini 3.1 Pro Preview | Google | 2 076 | 🔺 +58 |
-| 4 | GPT-5.6 Terra | OpenAI | 1 761 | 🔺 +231 |
-| 5 | GPT-5.6 Sol | OpenAI | 1 616 | 🔺 +127 |
-| 6 | Claude Opus 4.7 | Anthropic | 1 443 | 0 |
-| 7 | DeepSeek V4 Flash 0731 | DeepSeek | 899 | 🔻 -6 364 |
-| 8 | Gemini 3 Flash Preview | Google | 879 | 🔺 +1 |
-| 9 | text-embedding-3-small@Azure | OpenAI | 734 | 🔺 +3 |
-| 10 | Gemini 3.7 Flash | Google | 522 | 🔺 +1 |
-| 11 | GPT-5.4 Mini | OpenAI | 312 | 0 |
-| 12 | Gemini 3.6 Flash | Google | 195 | 🔺 +12 |
-| 13 | GPT-5.5 | OpenAI | 186 | 🔺 +11 |
-| 14 | DeepSeek V4 Pro 0813 | DeepSeek | 135 | 🔺 +10 |
-| 15 | Claude Sonnet 4.6 | Anthropic | 133 | 0 |
-| 16 | Grok 4.6 | xAI | 111 | 🔺 +26 |
-| 17 | Claude Opus 4.8 | Anthropic | 103 | 🔺 +27 |
-| 18 | Gemini 2.5 Flash | Google | 97 | 🔻 -3 |
-| 19 | GPT-5.4 | OpenAI | 80 | 0 |
-| 20 | DeepSeek V3.2 | DeepSeek | 72 | 🔻 -101 |
-| 21 | Claude Sonnet 5 | Anthropic | 62 | 🔺 +5 |
-| 22 | Hy3 | Tencent | 51 | 🔻 -12 |
-| 23 | Gemini 2.5 Pro | Google | 49 | 🔺 +3 |
-| 24 | GPT-5 Mini | OpenAI | 37 | 0 |
-| 25 | GPT-4o-mini | OpenAI | 23 | 🔺 +8 |
+| 1 | Claude Opus 5 | Anthropic | 9 027 | 🔺 +4 499 |
+| 2 | gpt-5.6-luna@Azure | OpenAI | 4 679 | 🔺 +1 997 |
+| 3 | gemini-3.1-pro-preview@gemini | Google | 2 226 | 🔺 +150 |
+| 4 | gpt-5.6-terra@CodexPro | OpenAI | 1 986 | 🔺 +225 |
+| 5 | gpt-5.6-sol@Azure | OpenAI | 1 698 | 🔺 +82 |
+| 6 | claude-opus-4-7@ClaudeMax | Anthropic | 1 383 | 🔻 -60 |
+| 7 | gemini-3-flash-preview@geminipro | Google | 882 | 🔺 +3 |
+| 8 | text-embedding-3-small@Azure | OpenAI | 744 | 🔺 +10 |
+| 9 | [req]gemini-3.7-flash@request | Google | 547 | 🔺 +25 |
+| 10 | Hy3 | Tencent | 392 | 🔺 +341 |
+| 11 | gpt-4o-mini | OpenAI | 377 | 🔺 +354 |
+| 12 | gpt-5.4-mini@Azure | OpenAI | 346 | 🔺 +34 |
+| 13 | gemini-3.6-flash@geminipro | Google | 200 | 🔺 +5 |
+| 14 | gpt-5.5@CodexPro | OpenAI | 191 | 🔺 +5 |
+| 15 | DeepSeek V4 Flash | DeepSeek | 175 | 🔺 +169 |
+| 16 | Claude Opus 4.8 | Anthropic | 116 | 🔺 +13 |
+| 17 | glm-5.3@Temp | Zhipu | 111 | 🔺 +94 |
+| 18 | gemini-3.1-flash-lite@geminipro | Google | 111 | 🔺 +99 |
+| 19 | claude-sonnet-4-6@claudecodecheap | Anthropic | 110 | 🔻 -23 |
+| 20 | gemini-2.5-flash@gemini | Google | 99 | 🔺 +2 |
+| 21 | gpt-5.4@azureopenai | OpenAI | 88 | 🔺 +8 |
+| 22 | claude-sonnet-5 | Anthropic | 63 | 🔺 +1 |
+| 23 | gemini-2.5-pro | Google | 57 | 🔺 +8 |
+| 24 | claude-fable-5@claudecode | Anthropic | 46 | 🔺 +33 |
+| 25 | gpt-5-mini@Azure | OpenAI | 40 | 🔺 +3 |
 <!-- RATING_TABLE_END -->
 
 ## Расширенные рейтинги (GitHub Pages)

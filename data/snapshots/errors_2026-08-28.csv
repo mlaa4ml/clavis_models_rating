@@ -1,0 +1,3 @@
+base_id,reason,status_code,message
+flux-2,request_failed,,"HTTPSConnectionPool(host='api.clavis.to', port=443): Max retries exceeded with url: /catalog/model/flux-2 (Caused by ReadTimeoutError(""HTTPSConnectionPool(host='api.clavis.to', port=443): Read timed out. (read timeout=15)""))"
+flux-dev,request_failed,,"HTTPSConnectionPool(host='api.clavis.to', port=443): Max retries exceeded with url: /catalog/model/flux-dev (Caused by ReadTimeoutError(""HTTPSConnectionPool(host='api.clavis.to', port=443): Read timed out. (read timeout=15)""))"
