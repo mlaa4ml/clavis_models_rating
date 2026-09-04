@@ -9,35 +9,35 @@ _(замени YOUR_USERNAME на свой GitHub login и включи Pages и
 ## Текущий рейтинг (по запросам за 30 дней)
 
 <!-- RATING_TABLE_START -->
-_Обновлено: 2026-09-03 (UTC) · моделей в рейтинге: 131_
+_Обновлено: 2026-09-04 (UTC) · моделей в рейтинге: 129_
 
 | # | Модель | Провайдер | Запросов (30 дн.) | Δ к пред. дню |
 |---|--------|-----------|-------------------:|--------------:|
-| 1 | [free]claude-opus-5@request | Anthropic | 124 700 | 🔺 +15 996 |
-| 2 | GPT 5.6 Luna | OpenAI | 8 276 | 🔺 +216 |
+| 1 | [free]claude-opus-5@request | Anthropic | 159 701 | 🔺 +35 001 |
+| 2 | gpt-5.6-luna@Azure | OpenAI | 8 165 | 🔻 -111 |
 | 3 | gemini-3.1-flash-lite@geminipro | Google | 7 321 | 0 |
-| 4 | gpt-4.1-mini | OpenAI | 3 787 | 0 |
-| 5 | gpt-5.6-terra | OpenAI | 2 620 | 🔺 +5 |
-| 6 | [req]gemini-3.1-pro-preview | Google | 2 560 | 🔺 +14 |
-| 7 | gpt-5.6-sol | OpenAI | 1 998 | 🔺 +4 |
-| 8 | Hy3 | Tencent | 1 987 | 🔺 +133 |
-| 9 | claude-opus-4-7@ClaudeLite | Anthropic | 1 225 | 🔺 +37 |
-| 10 | text-embedding-3-small@Azure | OpenAI | 837 | 🔺 +5 |
-| 11 | gpt-4o-mini | OpenAI | 733 | 🔺 +1 |
-| 12 | gemini-3.7-flash-r | Google | 658 | 🔺 +16 |
-| 13 | [req]glm-5.1 | Zhipu | 601 | 🔺 +13 |
-| 14 | glm-5.3@Temp | Zhipu | 589 | 🔺 +111 |
-| 15 | claude-sonnet-5 | Anthropic | 543 | 0 |
-| 16 | Gemini 3.1 Flash Lite Preview | Google | 491 | 0 |
-| 17 | gemini-3.6-flash@geminipro | Google | 488 | 0 |
-| 18 | [free]deepseek-v4-pro-0813@request | DeepSeek | 373 | 0 |
-| 19 | gpt-5.4-mini@CodexPro | OpenAI | 352 | 🔺 +5 |
-| 20 | gpt-5.5@CodexPro | OpenAI | 339 | 🔺 +10 |
-| 21 | claude-opus-4-8@ClaudeLite | Anthropic | 264 | 🔺 +11 |
-| 22 | gpt-4o | OpenAI | 209 | 0 |
-| 23 | [req]glm-5.3-flash@request | Zhipu | 165 | 🔺 +67 |
-| 24 | grok-4.5@GrokBuild | xAI | 119 | 🔺 +2 |
-| 25 | DeepSeek V4 Pro | DeepSeek | 110 | 🔺 +3 |
+| 4 | gpt-4.1-mini | OpenAI | 3 984 | 🔺 +197 |
+| 5 | gpt-5.6-terra | OpenAI | 2 720 | 🔺 +100 |
+| 6 | Hy3 | Tencent | 2 654 | 🔺 +667 |
+| 7 | gemini-3.1-pro-preview@gemini | Google | 2 585 | 🔺 +25 |
+| 8 | gpt-5.6-sol | OpenAI | 2 015 | 🔺 +17 |
+| 9 | claude-opus-4-7@ClaudeLite | Anthropic | 1 170 | 🔻 -55 |
+| 10 | text-embedding-3-small@Azure | OpenAI | 890 | 🔺 +53 |
+| 11 | gpt-4o-mini@Azure | OpenAI | 733 | 0 |
+| 12 | gemini-3.7-flash-r | Google | 623 | 🔻 -35 |
+| 13 | [req]glm-5.1 | Zhipu | 599 | 🔻 -2 |
+| 14 | [req]glm-5.3 | Zhipu | 531 | 🔻 -58 |
+| 15 | [req]gemini-3.6-flash | Google | 488 | 0 |
+| 16 | gpt-5.4-mini@CodexPro | OpenAI | 378 | 🔺 +26 |
+| 17 | claude-sonnet-5 | Anthropic | 323 | 🔻 -220 |
+| 18 | claude-opus-4-8@ClaudeMax | Anthropic | 295 | 🔺 +31 |
+| 19 | gpt-5.5@CodexPro | OpenAI | 230 | 🔻 -109 |
+| 20 | gpt-4o | OpenAI | 213 | 🔺 +4 |
+| 21 | grok-4.5@GrokBuild | xAI | 120 | 🔺 +1 |
+| 22 | gemini-3.8-flash-r@token | Google | 111 | 🔺 +111 |
+| 23 | gemini-2.5-flash | Google | 101 | 0 |
+| 24 | glm-5.3-flash@Temp | Zhipu | 89 | 🔻 -76 |
+| 25 | gpt-5.4@Azure | OpenAI | 88 | 🔻 -1 |
 <!-- RATING_TABLE_END -->
 
 ## Расширенные рейтинги (GitHub Pages)
