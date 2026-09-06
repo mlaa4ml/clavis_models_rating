@@ -1,0 +1,174 @@
+base_id,display_name,vendor,total_requests,requests_24h,context_window,supports_caching,cheapest_input_per_1m_rub,cheapest_output_per_1m_rub,avg_uptime_pct,variant_count,livebench_global,livebench_math,livebench_coding,livebench_reasoning,livebench_language
+claude-opus-5,Claude Opus 5,Anthropic,182599,1473,,True,5.0,200.0,95.1,11,,,,,
+claude-opus-5,Claude Opus 5,Anthropic,182599,1473,,True,5.0,200.0,95.1,11,,,,,
+claude-opus-5,Claude Opus 5,Anthropic,182599,1473,,True,5.0,200.0,95.1,11,,,,,
+claude-opus-5,Claude Opus 5,Anthropic,182599,1473,,True,5.0,200.0,95.1,11,,,,,
+gpt-5.6-luna,GPT-5.6 Luna,OpenAI,9516,1003,,True,1.0323,6.1935,81.0,3,71.9,86.3,60.0,84.7,70.2
+gemini-3.1-flash-lite,Gemini 3.1 Flash Lite,Google,7321,0,1048576,True,3.2258,19.3548,71.7,4,,,,,
+gemini-3.1-flash-lite,Gemini 3.1 Flash Lite,Google,7321,0,1048576,True,3.2258,19.3548,71.7,4,,,,,
+gpt-4.1-mini,GPT-4.1 Mini,OpenAI,4630,70,1047576,True,5.1613,20.6452,99.4,1,,,,,
+hy3,Hy3,Tencent,3403,601,262144,True,5.0,20.0,99.5,1,,,,,
+gpt-5.6-terra,GPT-5.6 Terra,OpenAI,3384,484,,True,10.3226,61.9355,71.2,3,75.5,89.5,62.1,84.9,79.9
+gemini-3.1-pro-preview,Gemini 3.1 Pro Preview,Google,2867,176,1048576,True,25.8065,154.8387,96.1,6,79.3,91.0,57.8,84.0,85.4
+gemini-3.1-pro-preview,Gemini 3.1 Pro Preview,Google,2867,176,1048576,True,25.8065,154.8387,96.1,6,79.3,91.0,57.8,84.0,85.4
+gemini-3.1-pro-preview,Gemini 3.1 Pro Preview,Google,2866,175,1048576,True,25.8065,154.8387,96.1,6,79.3,91.0,57.8,84.0,85.4
+gpt-5.6-sol,GPT-5.6 Sol,OpenAI,2200,79,,True,25.8065,154.8387,66.3,3,81.0,95.5,66.7,90.2,85.9
+claude-opus-4-7,Claude Opus 4.7,Anthropic,1170,0,,True,64.5161,322.5806,92.9,9,77.7,92.9,63.2,87.2,77.9
+claude-opus-4-7,Claude Opus 4.7,Anthropic,1170,0,,True,64.5161,322.5806,92.9,9,77.7,92.9,63.2,87.2,77.9
+claude-opus-4-7,Claude Opus 4.7,Anthropic,1170,0,,True,64.5161,322.5806,92.9,9,77.7,92.9,63.2,87.2,77.9
+text-embedding-3-small,text-embedding-3-small,OpenAI,927,31,,False,0.2581,0.2581,84.4,2,,,,,
+glm-5.3,GLM 5.3,Zhipu,789,253,,True,82.5806,289.0323,89.8,2,,,,,
+glm-5.3,GLM 5.3,Zhipu,789,253,,True,82.5806,289.0323,89.8,2,,,,,
+gpt-4o-mini,GPT-4o-mini,OpenAI,740,0,128000,False,1.9355,7.7419,99.2,2,,,,,
+glm-5.3-flash,GLM 5.3 Flash,Zhipu,715,621,,True,4.129,14.4516,97.0,2,,,,,
+glm-5.3-flash,GLM 5.3 Flash,Zhipu,703,609,,True,4.129,14.4516,97.9,2,,,,,
+gemini-3.7-flash,Gemini 3.7 Flash,Google,648,24,,True,9.6774,48.3871,95.4,6,,,,,
+gemini-3.7-flash,Gemini 3.7 Flash,Google,648,24,,True,9.6774,48.3871,95.4,6,,,,,
+glm-5.1,GLM 5.1,Zhipu,605,0,,False,,,98.8,1,,,,,
+gemini-3.6-flash,Gemini 3.6 Flash,Google,462,0,,True,19.3548,96.7742,99.7,6,,,,,
+gemini-3.6-flash,Gemini 3.6 Flash,Google,462,0,,True,19.3548,96.7742,99.7,6,,,,,
+gemini-3.6-flash,Gemini 3.6 Flash,Google,462,0,,True,19.3548,96.7742,99.7,6,,,,,
+claude-sonnet-5,Claude Sonnet 5,Anthropic,449,9,,True,25.8065,129.0323,79.9,10,75.9,92.9,62.9,88.7,75.0
+claude-sonnet-5,Claude Sonnet 5,Anthropic,449,9,,True,25.8065,129.0323,79.9,10,75.9,92.9,62.9,88.7,75.0
+claude-sonnet-5,Claude Sonnet 5,Anthropic,449,9,,True,25.8065,129.0323,79.9,10,75.9,92.9,62.9,88.7,75.0
+claude-opus-4-8,Claude Opus 4.8,Anthropic,396,7,,True,64.5161,322.5806,98.9,10,80.4,95.3,65.3,89.7,81.4
+claude-opus-4-8,Claude Opus 4.8,Anthropic,396,7,,True,64.5161,322.5806,98.9,10,80.4,95.3,65.3,89.7,81.4
+claude-opus-4-8,Claude Opus 4.8,Anthropic,396,7,,True,64.5161,322.5806,98.9,10,80.4,95.3,65.3,89.7,81.4
+gpt-5.4-mini,GPT-5.4 Mini,OpenAI,379,0,,True,3.871,23.2258,87.9,4,67.5,78.5,53.6,71.3,71.0
+gemini-3.8-flash,Gemini 3.8 Flash,Google,305,123,,True,9.6774,48.3871,90.7,6,,,,,
+gemini-3.8-flash,Gemini 3.8 Flash,Google,305,123,,True,9.6774,48.3871,90.7,6,,,,,
+kimi-k3,Kimi K3,Moonshot,235,1,,True,412.9032,2064.5162,93.2,2,,,,,
+kimi-k3,Kimi K3,Moonshot,235,1,,True,412.9032,2064.5162,93.2,2,,,,,
+gpt-5.5,GPT-5.5,OpenAI,230,0,1050000,True,25.8065,154.8387,92.1,4,81.6,95.9,64.1,89.7,87.4
+gpt-4o,GPT-4o,OpenAI,218,0,128000,True,32.2581,129.0323,98.2,1,,,,,
+GLM-5.3,GLM 5.3,Zhipu,161,62,,False,,,90.1,1,,,,,
+grok-4.5,Grok 4.5,xAI,146,16,,True,2.5806,7.7419,98.9,3,78.1,90.8,63.3,87.2,82.8
+claude-sonnet-4-6,Claude Sonnet 4.6,Anthropic,145,0,1000000,True,38.7097,193.5484,100.0,10,74.4,87.0,57.3,84.8,76.1
+grok-4.5,Grok 4.5,xAI,145,15,,True,2.5806,7.7419,99.2,3,78.1,90.8,63.3,87.2,82.8
+claude-sonnet-4-6,Claude Sonnet 4.6,Anthropic,145,0,1000000,True,38.7097,193.5484,100.0,10,74.4,87.0,57.3,84.8,76.1
+claude-sonnet-4-6,Claude Sonnet 4.6,Anthropic,145,0,1000000,True,38.7097,193.5484,100.0,10,74.4,87.0,57.3,84.8,76.1
+gemini-3.1-flash-image,Nano Banana 2 (Gemini 3.1 Flash Image),Google,121,0,131072,False,20.6452,2477.4194,99.0,2,,,,,
+gemini-2.5-flash,Gemini 2.5 Flash,Google,119,0,,True,3.871,32.2581,99.6,4,,,,,
+gemini-2.5-flash,Gemini 2.5 Flash,Google,119,0,,True,3.871,32.2581,99.6,4,,,,,
+grok-4.6,Grok 4.6,xAI,108,0,,True,2.5806,7.7419,98.5,3,,,,,
+grok-4.6,Grok 4.6,xAI,108,0,,True,2.5806,7.7419,98.5,3,,,,,
+gemini-2.5-pro,Gemini 2.5 Pro,Google,93,9,1048576,True,16.129,129.0323,88.4,5,,,,,
+gemini-2.5-pro,Gemini 2.5 Pro,Google,93,9,1048576,True,16.129,129.0323,88.4,5,,,,,
+gemini-2.5-pro,Gemini 2.5 Pro,Google,93,9,1048576,True,16.129,129.0323,88.4,5,,,,,
+claude-haiku-4-5-20251001,Claude Haiku 4.5,Anthropic,83,13,200000,True,12.9032,64.5161,90.6,8,,,,,
+claude-haiku-4-5-20251001,Claude Haiku 4.5,Anthropic,83,13,200000,True,12.9032,64.5161,90.6,8,,,,,
+gemini-3.1-flash-lite-preview,Gemini 3.1 Flash Lite Preview,Google,78,0,1048576,True,10.3226,61.9355,96.4,2,,,,,
+deepseek-v4-pro,DeepSeek V4 Pro 0813,DeepSeek,71,2,,False,,,100.0,2,73.7,90.7,53.6,82.7,78.1
+deepseek-v4-pro,DeepSeek V4 Pro 0813,DeepSeek,71,2,,False,,,100.0,2,73.7,90.7,53.6,82.7,78.1
+gpt-5-mini,GPT-5 Mini,OpenAI,71,0,,False,3.2258,25.8065,47.0,2,,,,,
+gpt-5.6-sol-openai-compact,gpt-5.6-sol-openai-compact@CodexPro,OpenAI,70,0,,True,25.8065,154.8387,57.0,2,,,,,
+claude-fable-5,Claude Fable 5,Anthropic,61,0,,True,129.0323,645.1613,98.9,7,81.2,95.7,63.4,87.7,89.5
+claude-fable-5,Claude Fable 5,Anthropic,61,0,,True,129.0323,645.1613,98.9,7,81.2,95.7,63.4,87.7,89.5
+deepseek-v4-pro-0813,DeepSeek V4 Pro 0813,DeepSeek,40,2,,False,,,87.5,1,73.7,90.7,53.6,82.7,78.1
+gemini-3-flash-preview,Gemini 3 Flash Preview,Google,40,4,1048576,True,6.4516,38.7097,80.0,5,,,,,
+gemini-3-flash-preview,Gemini 3 Flash Preview,Google,40,4,1048576,True,6.4516,38.7097,80.0,5,,,,,
+gemini-3-flash-preview,Gemini 3 Flash Preview,Google,40,4,1048576,True,6.4516,38.7097,80.0,5,,,,,
+deepseek-v4-flash,DeepSeek V4 Flash 0731,DeepSeek,37,17,,False,,,100.0,2,67.0,79.6,50.3,70.6,70.1
+deepseek-v4-flash,DeepSeek V4 Flash 0731,DeepSeek,37,17,,False,,,100.0,2,67.0,79.6,50.3,70.6,70.1
+gemini-3-pro-preview,gemini-3-pro-preview-r,Google,33,7,1048576,True,25.8065,154.8387,89.6,5,,,,,
+gemini-3-pro-preview,gemini-3-pro-preview-r,Google,33,7,1048576,True,25.8065,154.8387,89.6,5,,,,,
+gemini-3-pro-preview,gemini-3-pro-preview-r,Google,33,7,1048576,True,25.8065,154.8387,89.6,5,,,,,
+gemini-3.5-flash-lite,Gemini 3.5 Flash Lite,Google,31,0,,True,12.3871,103.2258,56.9,2,,,,,
+claude-fable-5-1,Claude Fable 5.1,Anthropic,29,0,,True,129.0323,645.1613,98.4,7,,,,,
+claude-fable-5-1,Claude Fable 5.1,Anthropic,29,0,,True,129.0323,645.1613,98.4,7,,,,,
+flux-2,Flux 2,Other,28,0,,False,,,100.0,1,,,,,
+text-embedding-ada-002,text-embedding-ada-002@Azure,OpenAI,28,0,,False,1.2903,1.2903,98.2,2,,,,,
+gpt-5.4,GPT-5.4,OpenAI,24,0,,True,32.2581,193.5484,100.0,2,79.6,94.1,63.3,88.1,82.6
+gemini-3.5-flash,Gemini 3.5 Flash,Google,23,0,,True,19.3548,116.129,100.0,6,76.0,88.2,60.7,82.0,84.6
+gemini-3.5-flash,Gemini 3.5 Flash,Google,23,0,,True,19.3548,116.129,100.0,6,76.0,88.2,60.7,82.0,84.6
+gemini-3.5-flash,Gemini 3.5 Flash,Google,23,0,,True,19.3548,116.129,100.0,6,76.0,88.2,60.7,82.0,84.6
+gpt-image-2-c,gpt-image-2-c,OpenAI,23,0,,False,,,91.3,1,,,,,
+gpt-image-2-pool,GPT Image 2,OpenAI,20,0,,False,,,10.0,1,,,,,
+claude-opus-4-6,Claude Opus 4.6,Anthropic,19,0,1000000,True,64.5161,322.5806,93.7,9,75.9,89.3,60.7,88.7,83.3
+claude-opus-4-6,Claude Opus 4.6,Anthropic,19,0,1000000,True,64.5161,322.5806,93.7,9,75.9,89.3,60.7,88.7,83.3
+claude-opus-4-6,Claude Opus 4.6,Anthropic,19,0,1000000,True,64.5161,322.5806,93.7,9,75.9,89.3,60.7,88.7,83.3
+krea/krea-2-large,Krea 2 Large,Other,18,0,,False,,,100.0,1,,,,,
+codex-auto-review,codex-auto-review@CodexPro,Other,17,0,,True,12.9032,77.4194,100.0,3,,,,,
+flux-dev,Flux Dev,Other,16,0,,False,,,62.5,1,,,,,
+o3-mini,o3 Mini,OpenAI,15,0,200000,False,14.1935,56.7742,73.3,1,,,,,
+gpt-6-astra,GPT-6 Astra,OpenAI,14,12,,True,51.6129,258.0645,100.0,3,,,,,
+grok-build-latest,grok-build-latest@GrokBuild,xAI,14,0,,True,1.2903,2.5806,100.0,1,,,,,
+voice-clone,Voice Clone,Other,14,0,,False,,,42.9,1,,,,,
+gemini-3-pro-image,Nano Banana Pro (Gemini 3 Pro Image),Google,13,0,65536,False,82.5806,4954.8388,45.5,2,,,,,
+gpt-4.1,GPT-4.1,OpenAI,13,0,1047576,True,25.8065,103.2258,92.3,1,,,,,
+krea/krea-2-turbo,Krea 2 Turbo,Other,13,0,,False,,,100.0,1,,,,,
+qwen,Qwen,Alibaba,13,0,,False,,,100.0,1,,,,,
+voice-tts,Voice TTS,Other,12,0,,False,,,58.3,1,,,,,
+dolphin-mistral,Dolphin Mistral,Other,11,0,32768,False,8.5161,17.0323,100.0,1,,,,,
+qwen-2512,Qwen 2512,Alibaba,11,0,,False,,,100.0,1,,,,,
+text-embedding-3-large,text-embedding-3-large@Azure,OpenAI,11,0,,False,1.6774,1.6774,90.0,2,,,,,
+gemini-embedding-001,gemini-embedding-001,Google,10,1,,False,6.1935,6.1935,100.0,1,,,,,
+gpt-5.3-codex,GPT-5.3-Codex,OpenAI,10,0,,True,85.8065,686.4516,80.0,1,,,,,
+dreamshaper,DreamShaper,Other,8,0,,False,,,12.5,1,,,,,
+o1,o1,OpenAI,8,0,200000,False,193.5484,774.1936,75.0,1,,,,,
+z-image,Z-Image,Other,8,0,,False,,,100.0,1,,,,,
+mythomax-13b,MythoMax 13B,Other,7,0,8192,False,10.6452,21.2903,100.0,1,,,,,
+juggernaut-xl,Juggernaut XL,Other,5,0,,False,,,100.0,1,,,,,
+3d-text,Text-to-3D,Other,4,0,,False,,,100.0,1,,,,,
+claude-opus-4-5-thinking,Claude Opus 4.5,Anthropic,4,0,200000,False,,,100.0,1,74.1,90.4,55.7,80.1,81.3
+composer-2.5,composer-2.5@GrokBuild,Other,4,0,,True,0.6452,3.2258,100.0,1,,,,,
+flux2-klein-4b,Flux 2 Klein 4B,Other,4,0,,False,,,100.0,1,,,,,
+img2img,Image-to-Image,Other,4,0,,False,,,75.0,1,,,,,
+realtime-sd,Realtime SD,Other,4,0,,False,,,100.0,1,,,,,
+3d-image,Image-to-3D,Other,3,0,,False,,,100.0,1,,,,,
+claude-opus-4-6-thinking,Claude Opus 4.6,Anthropic,3,0,,True,64.5161,322.5806,100.0,3,75.9,89.3,60.7,88.7,83.3
+claude-opus-4-7-thinking,Claude Opus 4.7,Anthropic,3,0,1000000,False,,,100.0,1,77.7,92.9,63.2,87.2,77.9
+claude-sonnet-4-6-thinking,Claude Sonnet 4.6,Anthropic,3,0,1000000,True,38.7097,193.5484,100.0,3,74.4,87.0,57.3,84.8,76.1
+bg-remover,Background Remover,Other,3,0,,False,,,100.0,1,,,,,
+claude-opus-4-6-thinking,Claude Opus 4.6,Anthropic,3,0,,True,64.5161,322.5806,100.0,3,75.9,89.3,60.7,88.7,83.3
+claude-opus-4-6-thinking,Claude Opus 4.6,Anthropic,3,0,,True,64.5161,322.5806,100.0,3,75.9,89.3,60.7,88.7,83.3
+claude-sonnet-4-6-thinking,Claude Sonnet 4.6,Anthropic,3,0,1000000,True,38.7097,193.5484,100.0,3,74.4,87.0,57.3,84.8,76.1
+claude-sonnet-4-6-thinking,Claude Sonnet 4.6,Anthropic,3,0,1000000,True,38.7097,193.5484,100.0,3,74.4,87.0,57.3,84.8,76.1
+face-swap,Face Swap,Other,3,0,,False,,,100.0,1,,,,,
+gemini-2.5-flash-image,Nano Banana (Gemini 2.5 Flash Image),Google,3,0,32768,False,,,25.0,2,,,,,
+gpt-5.2,GPT-5.2,OpenAI,3,0,,True,85.8065,686.4516,100.0,1,76.1,93.2,60.6,83.2,79.8
+grok-4.5-latest,grok-4.5-latest@GrokBuild,xAI,3,0,,True,2.5806,7.7419,100.0,1,,,,,
+mercury-2,Mercury 2,Other,3,0,128000,True,4.3889,13.1666,33.3,1,,,,,
+mercury-edit-2,Mercury Edit 2,Other,3,0,128000,True,4.3889,13.1666,100.0,1,,,,,
+pony-realism,Pony Realism,Other,3,0,,False,,,66.7,1,,,,,
+uncrop,Uncrop / Outpaint,Other,3,0,,False,,,100.0,1,,,,,
+voice-cover,Voice Cover,Other,3,0,,False,,,66.7,1,,,,,
+wan-2.2-t2i,Wan 2.2,Other,3,0,,False,,,100.0,1,,,,,
+claude-opus-4-5-20251101,Claude Opus 4.5,Anthropic,2,0,,True,103.2258,516.129,66.7,3,74.1,90.4,55.7,80.1,81.3
+cogvideo-x,CogVideoX,Other,2,0,,False,,,100.0,1,,,,,
+controlnet,ControlNet,Other,2,0,,False,,,100.0,1,,,,,
+flux-schnell,Flux Schnell,Other,2,0,,False,,,100.0,1,,,,,
+grok-build-0.1,Grok Build 0.1,xAI,2,0,,True,20.6452,41.2903,100.0,1,69.5,78.4,53.6,76.4,72.5
+grok-composer-2.5-fast,grok-composer-2.5-fast@GrokBuild,xAI,2,0,,True,3.871,19.3548,100.0,1,,,,,
+inpaint,Inpaint,Other,2,0,,False,,,100.0,1,,,,,
+krea/krea-1,Krea 1,Other,2,0,,False,,,100.0,1,,,,,
+krea/krea-2-medium,Krea 2 Medium,Other,2,0,,False,,,100.0,1,,,,,
+realtime-flux,Realtime Flux,Other,2,0,,False,,,100.0,1,,,,,
+sdxl-lightning,SDXL Lightning,Other,2,0,,False,,,100.0,1,,,,,
+super-resolution,Super Resolution,Other,2,0,,False,,,100.0,1,,,,,
+video-txt-ultra,Text-to-Video Ultra,Other,2,0,,False,,,100.0,1,,,,,
+glm-5.2,GLM 5.2,Zhipu,1,0,1000000,True,82.5806,289.0323,100.0,2,73.9,89.8,63.0,78.6,76.2
+claude-sonnet-4-5,Claude Sonnet 4.5,Anthropic,1,0,,True,116.129,580.6452,100.0,1,,,,,
+flux,Flux,Other,1,0,,False,,,100.0,1,,,,,
+flux-kontext,Flux Kontext,Other,1,0,,False,,,100.0,1,,,,,
+gemini-3-pro-image-preview,Nano Banana Pro (Gemini 3 Pro Image Preview),Google,1,0,65536,False,,,0.0,1,,,,,
+glm-5.2,GLM 5.2,Zhipu,1,0,1000000,True,82.5806,289.0323,100.0,2,73.9,89.8,63.0,78.6,76.2
+gpt-5.1,GPT-5.1,OpenAI,1,0,,True,61.2903,490.3226,100.0,1,,,,,
+gpt-5.6-terra-openai-compact,gpt-5.6-terra-openai-compact@CodexPro,OpenAI,1,0,,True,10.3226,61.9355,100.0,2,,,,,
+gpt-image-2-high,gpt-image-2-high@request,OpenAI,1,0,,False,,,0.0,1,,,,,
+music-gen,Music Generation,Other,1,0,,False,,,100.0,1,,,,,
+realistic-vision,Realistic Vision,Other,1,0,,False,,,100.0,1,,,,,
+sdxl-base,SDXL Base,Other,1,0,,False,,,100.0,1,,,,,
+video-txt,Text-to-Video,Other,1,0,,False,,,100.0,1,,,,,
+claude-opus-4-5,Claude Opus 4.5,Anthropic,0,0,200000,False,,,100.0,1,74.1,90.4,55.7,80.1,81.3
+claude-sonnet-4-5-20250929,Claude Sonnet 4.5,Anthropic,0,0,1000000,True,123.871,619.3548,100.0,2,,,,,
+gemini-3-pro-image-c,gemini-3-pro-image-c@request,Google,0,0,,False,,,100.0,1,,,,,
+gemini-3.1-flash-image-c,gemini-3.1-flash-image-c@request,Google,0,0,,False,,,100.0,1,,,,,
+gemini-3.1-flash-image-preview,Nano Banana 2 (Gemini 3.1 Flash Image Preview),Google,0,0,131072,False,,,100.0,1,,,,,
+gemini-3.1-flash-lite-image,Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image),Google,0,0,,False,,,100.0,1,,,,,
+gemini-embedding-2-preview,gemini-embedding-2-preview,Google,0,0,,False,8.2581,8.2581,100.0,1,,,,,
+gpt-5.5-openai-compact,gpt-5.5-openai-compact,OpenAI,0,0,,True,25.8065,154.8387,100.0,2,,,,,
+grok-4.20-0309-non-reasoning,grok-4.20-0309-non-reasoning@Grok,xAI,0,0,,True,41.2903,123.871,100.0,1,,,,,
+grok-4.20-0309-reasoning,grok-4.20-0309-reasoning@Grok,xAI,0,0,,True,41.2903,123.871,100.0,1,,,,,
+grok-4.20-multi-agent-0309,grok-4.20-multi-agent-0309@Grok,xAI,0,0,,True,41.2903,123.871,100.0,1,,,,,
+grok-4.3,Grok 4.3,xAI,0,0,,True,25.8065,51.6129,100.0,1,64.4,84.3,39.1,70.8,73.6
