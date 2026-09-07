@@ -1,0 +1,5 @@
+base_id,reason,status_code,message
+flux,request_failed,,"HTTPSConnectionPool(host='api.clavis.to', port=443): Max retries exceeded with url: /catalog/model/flux (Caused by ReadTimeoutError(""HTTPSConnectionPool(host='api.clavis.to', port=443): Read timed out. (read timeout=15)""))"
+flux-2,request_failed,,"HTTPSConnectionPool(host='api.clavis.to', port=443): Max retries exceeded with url: /catalog/model/flux-2 (Caused by ReadTimeoutError(""HTTPSConnectionPool(host='api.clavis.to', port=443): Read timed out. (read timeout=15)""))"
+voice-clone,request_failed,,"HTTPSConnectionPool(host='api.clavis.to', port=443): Max retries exceeded with url: /catalog/model/voice-clone (Caused by ReadTimeoutError(""HTTPSConnectionPool(host='api.clavis.to', port=443): Read timed out. (read timeout=15)""))"
+voice-cover,request_failed,,"HTTPSConnectionPool(host='api.clavis.to', port=443): Max retries exceeded with url: /catalog/model/voice-cover (Caused by ReadTimeoutError(""HTTPSConnectionPool(host='api.clavis.to', port=443): Read timed out. (read timeout=15)""))"
