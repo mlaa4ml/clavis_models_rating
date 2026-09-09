@@ -1,0 +1,3 @@
+base_id,reason,status_code,message
+gemini-3-flash-preview-r,request_failed,,"HTTPSConnectionPool(host='api.clavis.to', port=443): Max retries exceeded with url: /catalog/model/gemini-3-flash-preview-r (Caused by ReadTimeoutError(""HTTPSConnectionPool(host='api.clavis.to', port=443): Read timed out. (read timeout=15)""))"
+gemini-3-pro-image,request_failed,,"HTTPSConnectionPool(host='api.clavis.to', port=443): Max retries exceeded with url: /catalog/model/gemini-3-pro-image (Caused by ReadTimeoutError(""HTTPSConnectionPool(host='api.clavis.to', port=443): Read timed out. (read timeout=15)""))"
