@@ -1,0 +1,5 @@
+base_id,reason,status_code,message
+claude-sonnet-5-r,request_failed,,"HTTPSConnectionPool(host='api.clavis.to', port=443): Max retries exceeded with url: /catalog/model/claude-sonnet-5-r (Caused by ReadTimeoutError(""HTTPSConnectionPool(host='api.clavis.to', port=443): Read timed out. (read timeout=15)""))"
+codex-auto-review,request_failed,,"HTTPSConnectionPool(host='api.clavis.to', port=443): Max retries exceeded with url: /catalog/model/codex-auto-review (Caused by ReadTimeoutError(""HTTPSConnectionPool(host='api.clavis.to', port=443): Read timed out. (read timeout=15)""))"
+gpt-5.3-codex,request_failed,,"HTTPSConnectionPool(host='api.clavis.to', port=443): Max retries exceeded with url: /catalog/model/gpt-5.3-codex (Caused by ReadTimeoutError(""HTTPSConnectionPool(host='api.clavis.to', port=443): Read timed out. (read timeout=15)""))"
+gpt-5.4,request_failed,,"HTTPSConnectionPool(host='api.clavis.to', port=443): Max retries exceeded with url: /catalog/model/gpt-5.4 (Caused by ReadTimeoutError(""HTTPSConnectionPool(host='api.clavis.to', port=443): Read timed out. (read timeout=15)""))"
