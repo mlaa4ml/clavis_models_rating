@@ -1,0 +1,5 @@
+base_id,reason,status_code,message
+dolphin-mistral,request_failed,,"HTTPSConnectionPool(host='api.clavis.to', port=443): Max retries exceeded with url: /catalog/model/dolphin-mistral (Caused by ReadTimeoutError(""HTTPSConnectionPool(host='api.clavis.to', port=443): Read timed out. (read timeout=15)""))"
+dreamshaper,request_failed,,"HTTPSConnectionPool(host='api.clavis.to', port=443): Max retries exceeded with url: /catalog/model/dreamshaper (Caused by ReadTimeoutError(""HTTPSConnectionPool(host='api.clavis.to', port=443): Read timed out. (read timeout=15)""))"
+text-embedding-3-large,request_failed,,"HTTPSConnectionPool(host='api.clavis.to', port=443): Max retries exceeded with url: /catalog/model/text-embedding-3-large (Caused by ReadTimeoutError(""HTTPSConnectionPool(host='api.clavis.to', port=443): Read timed out. (read timeout=15)""))"
+text-embedding-3-small,request_failed,,"HTTPSConnectionPool(host='api.clavis.to', port=443): Max retries exceeded with url: /catalog/model/text-embedding-3-small (Caused by ReadTimeoutError(""HTTPSConnectionPool(host='api.clavis.to', port=443): Read timed out. (read timeout=15)""))"
